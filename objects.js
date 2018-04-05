@@ -1,3 +1,3 @@
-var playlist = {artistnames: 'song'};
+var playlist = {ChrisTomlin: 'Jesus He Loves Me'};
 
 
